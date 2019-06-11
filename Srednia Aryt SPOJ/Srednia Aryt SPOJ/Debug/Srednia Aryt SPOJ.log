@@ -1,0 +1,8 @@
+﻿  Srednia Aryt SPOJ.cpp
+c:\users\miki_\source\repos\srednia aryt spoj\srednia aryt spoj\srednia aryt spoj.cpp(54): warning C4244: "=": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+c:\users\miki_\source\repos\srednia aryt spoj\srednia aryt spoj\srednia aryt spoj.cpp(59): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Srednia Aryt SPOJ.vcxproj -> C:\Users\miki_\Source\Repos\Srednia Aryt SPOJ\Debug\Srednia Aryt SPOJ.exe
